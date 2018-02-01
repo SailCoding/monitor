@@ -4,7 +4,7 @@
 
 See the CPU usage, memory usage, read and write speed on a computer the program runs on.
 
-###How to use
+### How to use
 
 There is a Makefile letting you be able to run the program easily! Just use the command
 
